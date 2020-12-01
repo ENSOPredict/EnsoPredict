@@ -31,9 +31,9 @@ Machine Learning: pytorch
 Prediction Release:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4281691.svg)](https://doi.org/10.5281/zenodo.4281691)
 
-Repository: https://github.com/ENSOPredict/EnsoPredictDist
+Repository: <a href="https://github.com/ENSOPredict/EnsoPredictDist"> https://github.com/ENSOPredict/EnsoPredictDist </a>
 
-Model: https://doi.org/10.6084/m9.figshare.13302755.v1
+Model: <a href="https://doi.org/10.6084/m9.figshare.13302755.v1">https://doi.org/10.6084/m9.figshare.13302755.v1</a>
 
 Demo Video:
 
