@@ -42,6 +42,9 @@ Final Report:
 
 ## Project Management
 
+<a href="https://github.com/orgs/ENSOPredict/projects/1">EnsoPredict Project Kanban</a>
+
+
 ### The Team 2:
 
 Project Manager: Guangzheng Wu
