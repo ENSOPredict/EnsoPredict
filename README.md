@@ -74,3 +74,23 @@ e. End Project : This is the end of the project. No major change will be needed 
 ### Timeline:
 
 <img src="gantt.jpg"/>
+
+
+### Instruction on how to run EnsoPredict training:
+
+In the training part of our EnsoPredict project, we mainly do 3 comparisons:  
+1.Simpler machine learning model VS More complex machine learning model  
+2.Regression machine learning model VS Classification machine learning model  
+3.Different lead time value (from 1 month to 12 month) and different input dataset (MPI or CNRM), to see the corresponding result of each model  
+
+Based on these, we have the following scripts for training our models, it is in the Training Scripts folder under our Repository:  
+
+First of all,   
+Set up the virtual environment based on the requirements.txt file in the Repo.  
+For example:  
+`git clone https://github.com/ENSOPredict/EnsoPredict.git`  
+`pip install virtualenv`  
+`python -m venv training`  
+`.\training\Scripts\activate`   
+`pip install -r requirements.txt`
+
