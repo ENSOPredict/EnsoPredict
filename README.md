@@ -29,7 +29,7 @@ Machine Learning: pytorch
 ## Deliverables
 
 Prediction Release:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4281691.svg)](https://doi.org/10.5281/zenodo.4281691)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4301060.svg)](https://doi.org/10.5281/zenodo.4301060)
 
 Repository: https://github.com/ENSOPredict/EnsoPredictDist
 
