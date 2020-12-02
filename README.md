@@ -96,11 +96,13 @@ For example:
 
 For simpler model, we've done both linear regression and logistic regression on MPI dataset,as well as CNRM dataset. The scripts is in the MPI(CNRM)_LinearOrLogRegression folders.  
 
-For complex model, we've done 2-layer CNN on MPI dataset and 3-layer CNN on CNRM dataset.
+For complex model, we've done 2-layer CNN on MPI dataset and 3-layer CNN on CNRM dataset.  
 Thus the optimal model is the 3 layer CNN on CNRM data, it is the ensopredict_training.ipynb in the Repo.  
 
 Here are some guidelines for running our training scripts:  
 
+1. Here is to switch GPU/CPU for training:  
+![image](https://github.com/ENSOPredict/EnsoPredict/blob/main/1.png)  
 
 
 
