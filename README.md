@@ -102,17 +102,24 @@ Thus the optimal model is the 3 layer CNN on CNRM data, it is the ensopredict_tr
 Here are some guidelines for running our training scripts:  
 
 1. Here is to switch GPU/CPU for training:  
+
 ![image](https://github.com/ENSOPredict/EnsoPredict/blob/main/1.png)  
 
 
+
 2. Here is to change the MPI/CNRM dataset, change the lead time month and select the training start time/end time:  
+
 ![image](https://github.com/ENSOPredict/EnsoPredict/blob/main/2.png)  
 
 3. Here is to switch between CNN Classification and CNN Regression.  
 (When Classification=True, it is classification model. Vice versa.)  
+
 ![image](https://github.com/ENSOPredict/EnsoPredict/blob/main/3.png)  
 
+
+
 4.If user wants to tune up the parameter of the trainning CNN model, here you can adjust the learning rate / number of epochs / batch size:  
+
 ![image](https://github.com/ENSOPredict/EnsoPredict/blob/main/4.png)  
 
 
