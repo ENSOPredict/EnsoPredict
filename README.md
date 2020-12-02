@@ -76,7 +76,7 @@ e. End Project : This is the end of the project. No major change will be needed 
 <img src="gantt.jpg"/>
 
 
-### Instruction on how to run EnsoPredict training:
+# Instruction on how to run EnsoPredict training:
 
 In the training part of our EnsoPredict project, we mainly do 3 comparisons:  
 1.Simpler machine learning model VS More complex machine learning model  
