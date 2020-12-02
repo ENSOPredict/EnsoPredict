@@ -35,7 +35,7 @@ Repository: https://github.com/ENSOPredict/EnsoPredictDist
 
 Model: https://doi.org/10.6084/m9.figshare.13302755.v1
 
-Demo Video:
+Demo Video: https://youtu.be/RPdfDuY-QKA
 
 Final Report:
 
